@@ -7,7 +7,7 @@
 This analysis aims to provide meaningful insights related to the NTSB civil aviation accident causes, patterns, and outcomes. with the ultimate purpose of improving the quality and safety of traveling by air fly. the dataset was provided by Kaggle [here](https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses/data)
 The NTSB aviation accident database contains information from 1962 and later about civil aviation accidents and selected incidents within the United States, its territories and possessions, and in international waters.
 
-## what are the different steps followed by the analysis?
+## steps followed by the analysis?
 ### Loading and Inspection of the dataset
 ### Exploratory data analyst
    #### Data cleaning
