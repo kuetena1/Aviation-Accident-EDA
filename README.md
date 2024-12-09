@@ -4,8 +4,8 @@
 
 
 
-This analysis aims to provide meaningful insights related to the NTSB civil aviation accident causes, patterns, and outcomes. with the ultimate purpose of improving the quality and safety of traveling by air fly. the dataset was provided by Kaggle [here](https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses/data)
-The NTSB aviation accident database contains information from 1962 and later about civil aviation accidents and selected incidents within the United States, its territories and possessions, and in international waters.
+This analysis aims to provide meaningful insights into the causes, patterns, and outcomes of civil aviation accidents in the NTSB. The ultimate purpose is to improve the quality and safety of air-flight travel. The dataset was provided by Kaggle [here](https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses/data)
+The NTSB aviation accident database contains information about civil aviation accidents and selected incidents within the United States, its territories and possessions, and international waters from 1962 and later.
 
 ## steps followed by the analysis?
 ### Loading and Inspection of the dataset
@@ -19,7 +19,7 @@ Manufacturers like Cessna and Piper are frequently involved in accidents.<br />
 Accidents have significantly decreased from 1982 to 2022. <br />
 Most accidents occur under Visual Meteorological Conditions (VMC), often linked to spatial disorientation.<br />  
 The highest number of accidents occurs during June, July, and August, likely due to increased recreational flights.<br />
-#### Recommandations
+#### Recommendations
 Enhance pilot training on VMC conditions, particularly for night or low-visibility scenarios.<br />
 Collaborate with aircraft manufacturers to address design vulnerabilities and improve safety features.<br />
 #### Suggestions for future analysis
