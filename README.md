@@ -4,7 +4,7 @@
 
 
 
-This analysis aims to provide meaningful insights into the causes, patterns, and outcomes of civil aviation accidents in the NTSB. The ultimate purpose is to improve the quality and safety of air-flight travel. The dataset was provided by Kaggle [here](https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses/data)
+This [analysis](https://github.com/kuetena1/Aviation-Accident-EDA/blob/main/Aviation%20Accident%20with%20python.ipynb) aims to provide meaningful insights into the causes, patterns, and outcomes of civil aviation accidents in the NTSB. The ultimate purpose is to improve the quality and safety of air-flight travel. The dataset was provided by Kaggle [here](https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses/data)
 The NTSB aviation accident database contains information about civil aviation accidents and selected incidents within the United States, its territories and possessions, and international waters from 1962 and later.
 
 ## steps followed by the analysis?
